@@ -1,3 +1,17 @@
+Explicación de ejercicio:
+
+- Primero de todo, elimino todo el body del html menos el div y el h1
+- Creo un h1 poniendo un id para poder enlazarlo al js a posteriori
+- En app.js hago un ElementById para enlazar el html con el js
+- Pongo un const con su nombre para poder crear la función
+- Luego copio los let ya creados del ejercicio y añado uno nuevo ya que necesito los dominios
+- Una vez tengo las variables, empiezo a hacer los for loops de cada una para hacer la operación
+- Por último concateno los strings y de esa forma se pueda crear lo que estamos buscando
+- Hago un return y así se queda la función para tener el ejercicio terminado
+
+Estamos a tope!!
+
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
