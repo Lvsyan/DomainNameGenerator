@@ -30,3 +30,4 @@ const domain = () => {
   }
   return newDomain;
 };
+console.log(domain());
